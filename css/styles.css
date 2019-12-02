@@ -1,0 +1,162 @@
+body {
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 2.75rem;
+  line-height: 1.25;
+}
+
+/* Containers */
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Sections */
+.teal-bg {
+  background-color: #3fb4d8;
+  color: #fff;
+}
+
+.gold-bg,
+.orange-bg {
+  background-color: #e69d11;
+  color: #fff;
+}
+
+.white-bg {
+  background-color: #fff;
+}
+
+.cta-bg {
+  background-color: #52c091;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding-left: 0;
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.25rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding-left: .8rem;
+  padding-right: .8rem;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: Montserrat;
+}
+
+/* Title Section */
+#title {
+  text-align: right;
+}
+
+#title .container-fluid {
+  padding: 3% 7%;
+}
+
+.title-image {
+  width: 90%;
+  border: 3px white solid;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Features Section */
+#features {
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  padding: 10px 15px;
+}
+
+.feature-title {
+  font-size: 2rem;
+}
+
+.feature-icons {
+  color: #fa4c01;
+  padding-bottom: 20px;
+}
+
+.feature-icons:hover {
+  color: #ff5e57;
+}
+
+/* Testimonials Section */
+#testimonials,
+#press {
+    background-color: #f1af0d;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing h2 {
+  color: #ff5e57;
+}
+
+#pricing p {
+  font-size: 1.3rem;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* Footer  */
+.social-icon {
+  padding: 20px 10px;
+}
+
+/* Media Queries */
+@media (max-width: 1028px) {
+  .title-section {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    margin-bottom: 20px;
+  }
+
+  .big-heading {
+    font-size: 2.8rem;
+  }
+}
