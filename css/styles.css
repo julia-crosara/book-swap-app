@@ -1,3 +1,7 @@
+html {
+  font-size: 1rem;
+}
+
 body {
   font-family: 'Montserrat';
   text-align: center;
@@ -14,7 +18,7 @@ p {
 
 /* Headings */
 .big-heading {
-  font-size: 3.5rem;
+  font-size: 3.25rem;
   line-height: 1.5;
 }
 
@@ -56,7 +60,7 @@ p {
 
 .navbar-brand {
   font-family: 'Ubuntu';
-  font-size: 2.25rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -142,11 +146,11 @@ p {
 
 /* Footer  */
 .social-icon {
-  padding: 20px 10px;
+  padding: 1.2rem .75rem;
 }
 
 /* Media Queries */
-@media (max-width: 1028px) {
+@media (max-width: 999px) {
   .title-section {
     text-align: center;
   }
@@ -157,6 +161,10 @@ p {
   }
 
   .big-heading {
-    font-size: 2.8rem;
+    font-size: 2.2rem;
+  }
+
+  .section-heading {
+    font-size: 2rem;
   }
 }
