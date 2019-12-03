@@ -1,2 +1,2 @@
 # book-swap-app
-Prototype for book swapping application
+Startup landing page for a book swapping app
