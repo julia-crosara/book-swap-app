@@ -1,2 +1,2 @@
 # book-swap-app
-Startup landing page for a book swapping app
+Used Bootstrap 4 to create a startup landing page for a book swapping application.
