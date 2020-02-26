@@ -33,14 +33,13 @@ p {
 }
 
 /* Sections */
-.teal-bg {
-  background-color: #3fb4d8;
+.title-bg {
+  background-color: #67b2c9;
   color: #fff;
 }
 
-.gold-bg,
-.orange-bg {
-  background-color: #e69d11;
+.testimonials-bg {
+  background-color: #74c2b2;
   color: #fff;
 }
 
@@ -49,7 +48,7 @@ p {
 }
 
 .cta-bg {
-  background-color: #52c091;
+  background-color: #ffd363;
 }
 
 /* Navigation Bar */
@@ -60,7 +59,7 @@ p {
 
 .navbar-brand {
   font-family: 'Ubuntu';
-  font-size: 2,25rem;
+  font-size: 2.25rem;
   font-weight: bold;
 }
 
@@ -118,7 +117,7 @@ p {
 /* Testimonials Section */
 #testimonials,
 #press {
-    background-color: #f1af0d;
+    background-color: #74c2b2;
 }
 
 .testimonial-image {
