@@ -1,4 +1,4 @@
 # book-swap-app
-Used Bootstrap 4 to create a startup landing page for a book swapping application.
+Startup landing page for a book swapping application. Built with Bootstrap 4.
 
 https://julia-crosara.github.io/book-swap-app/
